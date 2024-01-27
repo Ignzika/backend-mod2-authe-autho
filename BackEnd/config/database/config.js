@@ -9,6 +9,7 @@ export const db = {
     database: process.env.DB_NAME_DATABASE,
     // DB online
     // connectionString: process.env.DATABASE_URL,
+    
 };
 
 
