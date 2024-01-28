@@ -1,21 +1,24 @@
-import { forRegisterNewUser, getAll } from "../models/userModel.js";
+import { forAuth } from "../models/loginModel.js";
+import { forRegisterNewUser} from "../models/userModel.js";
 import { findError } from "../utils/utils.js";
 
-// export const allUser = async (req, res, next) => {
-// try {
-//   const result = await getAll();
-//   res.status(201).json({users: result})
-// } catch (error) {
-//   next(error)
-// }
-// };
+export const getTheUser = async (req, res, next) => {
+  const user = req.body;
+  
+  try {
+  const result = await forAuth(user.email);
+  res.status(201).json({users: result})
+} catch (error) {
+  next(error)
+}
+};
+
 
 export const registerNewUser = async (req, res, next) => {
   const user = req.body;
 
   try {
     const result = await forRegisterNewUser(user);
-
     res.status(201).json({ user: result });
   } catch (error) {
     next(error);

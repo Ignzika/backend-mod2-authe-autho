@@ -27,7 +27,7 @@ export const loginUser = async (req, res, next) => {
       } else {
         const { email, lenguage } = finder;
         const token = jwt.sign({ email }, process.env.JWT_SECRET, {
-          expiresIn: "30min",
+          expiresIn: "7d",
         });
         res.status(200).json({
           message: `Welcome user: ${email}, now start to work on ${lenguage} until the end of the days... `,

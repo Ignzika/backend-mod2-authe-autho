@@ -1,15 +1,6 @@
 import bcrypt from "bcryptjs";
 import pool from "../../../../config/database/db.js";
 
-export const getAll = async () => {
-  const SQLquery = {
-    text: "SELECT * FROM usuarios;"
-  };
-  const response = await pool.query(SQLquery);
-  return response.rows;
-};
-
-
 export const forRegisterNewUser = async ({
   email,
   password,
