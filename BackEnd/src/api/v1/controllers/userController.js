@@ -23,5 +23,3 @@ export const registerNewUser = async (req, res, next) => {
     next(error);
   }
 };
-
-//checkar los errores

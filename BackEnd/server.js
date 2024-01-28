@@ -14,9 +14,7 @@ app.use(express.json());
 app.use(logger());
 app.use(router);
 
-// app.use("/api/v1", userRoutes);
-// app.use("/api/v1", travelsRouter);
-// app.use("/api/v1", loginRoutes);
+
 
 app.use((err, req, res, next) => {
   return res.status(500).json({
