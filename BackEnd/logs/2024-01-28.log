@@ -1,0 +1,246 @@
+
+Started GET / for :: ::1 at Sun Jan 28 2024 03:24:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [462a4c75-0750-40cd-851c-bfb6652038ed]
+
+Started GET / for :: ::1 at Sun Jan 28 2024 03:29:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [2d67d0b8-7671-4e77-94b5-a98bdabde2c6]
+
+Started GET /usuarios for :: ::1 at Sun Jan 28 2024 03:29:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 405 message:  Time response: 4 ms Request ID: [fffeb9df-ec1e-4596-9162-5cbf76a0a356]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:32:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 3 ms Request ID: [85fbc945-7a9e-4497-8add-2d0e69308dd6]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:33:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 4 ms Request ID: [21be6605-b3f3-48df-8b41-d3d5693abd4c]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:34:43 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 6 ms Request ID: [77121858-2a60-4501-a0ec-8fc1d49acaa7]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:34:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 8 ms Request ID: [02e2c217-a724-4b9f-9fa9-f5b8dcb633c1]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:35:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 7 ms Request ID: [088fae69-eb6a-4f0e-8f53-67504abda768]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:35:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 11 ms Request ID: [3311c043-97d2-4e04-88b8-9ed07eb3667f]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:35:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 11 ms Request ID: [e008accf-9584-48b3-bac1-6a7be82f9aa1]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:35:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 7 ms Request ID: [ed8eb9ab-79fc-4f13-a269-b999b4ec82cf]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:35:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 8 ms Request ID: [33f0c339-601f-4c85-89ce-a76b997a5006]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:36:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 11 ms Request ID: [ebe54165-485b-48f8-b26f-6f5fe10cc462]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:36:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 11 ms Request ID: [a1259e73-8565-4939-ace8-8783a12e3359]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:37:23 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 7 ms Request ID: [ce9b31b3-4c85-4792-8ac7-e321e759abb0]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:37:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 14 ms Request ID: [38bdac32-e943-4520-a9f8-2d1e29338245]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:37:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 11 ms Request ID: [aa8e7143-b575-409e-8e18-cf4af6726ee6]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:37:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 12 ms Request ID: [a13676d3-4f13-4895-b0b4-314070e64714]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:37:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 10 ms Request ID: [c3b10cd9-044d-4a88-8b10-51b4cc2d57e7]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:38:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 2 ms Request ID: [a072e6aa-9437-4d24-ad72-8f69d012e831]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:42:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 8 ms Request ID: [674a4d2a-7e65-4f12-aebd-00a73ac874fc]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:42:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:42:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 8 ms Request ID: [63aa3b88-2a84-4804-9ec0-48ab60e879b8]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:43:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 13 ms Request ID: [941b149e-967c-4b45-b53d-0b609e945207]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:47:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 8 ms Request ID: [606c19b6-5a77-45c1-a937-d2a0fac8f4a6]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:50:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 9 ms Request ID: [c2ae64ac-f559-4fae-935e-c572fb9f9739]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:51:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 8 ms Request ID: [c1a27806-6c76-4aef-8850-407bbc951fa9]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:51:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 3 ms Request ID: [9b12c167-1172-4819-b824-94b0ff873d91]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:54:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 7 ms Request ID: [597e0d96-ecdd-4e17-ba3a-90ad032c26e1]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:54:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 2 ms Request ID: [f33ea406-0f41-436c-bca5-f8fb97359c27]
+
+Started POST /users for :: ::1 at Sun Jan 28 2024 03:56:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [737fe37f-cace-4fa0-8237-be21ac80f50e]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:56:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [e86ac632-a1ba-499b-8f07-2ea0dca9d313]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 03:57:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 9 ms Request ID: [8c5dfdf6-8559-438c-85e3-f94566d8317c]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:01:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 8 ms Request ID: [bedc8e38-1ff8-4986-9b86-eb0f6fb4fbe4]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:02:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 13 ms Request ID: [c1ac8cc5-88e8-4d9c-9443-e79076b67eb3]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:02:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [55132c0f-b7d7-46dc-bdb2-f8a7b99365bc]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:04:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 6 ms Request ID: [c6d040fb-a398-4d07-bc40-2361b64a74e5]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:04:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 7 ms Request ID: [0a268a0a-dfee-4e81-b819-1225ae771ddc]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:05:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [dc04fddc-e9a9-4845-af51-d6bb63fe765a]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:05:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [5a053af7-e174-42d7-9931-bcd8885d754e]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:05:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 2 ms Request ID: [3295bb52-7197-47c1-8f15-0ce96f1ae9fb]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:08:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 7 ms Request ID: [822da360-8150-4002-ac7a-b0e1b2aa7cfb]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:08:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 11 ms Request ID: [66497ad3-f1e7-4d28-bcd3-fe942b9ceb3a]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:09:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 2 ms Request ID: [ecec926e-2cdb-4272-bec5-40384fe74e8e]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:09:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 3 ms Request ID: [25afb5e9-6b8c-44fd-91cc-b3e4145976cf]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:13:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 7 ms Request ID: [ac989d39-74c3-43df-88ab-65e1c432b484]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:15:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 10 ms Request ID: [1dd79824-cb91-4aed-8866-1d1ab4263c30]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:28:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 4 ms Request ID: [57142f5f-dd6c-41a1-9f15-b56650d39636]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:33:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 66 ms Request ID: [668941bf-de18-42d6-9d52-e0eb2f856ff0]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:34:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":987654321,"rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 64 ms Request ID: [2ac3e421-b2e0-42f8-8971-08bd981586da]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:34:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","pasword":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 38 ms Request ID: [411edb31-3302-4dd9-ad39-576b142152a9]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:35:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testo@test.xl","password":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 64 ms Request ID: [1080ee3e-a379-4f7d-adfd-a9588b66d045]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:36:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t2342344@test.xl","password":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 56 ms Request ID: [984196f9-3587-446c-9061-852aef2a4bfa]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:36:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@test.xl","password":"987654321","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 39 ms Request ID: [a2dc0299-5db1-448f-b264-df240ac87f77]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:36:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@test.xl","password":"987621","rol":"idiot","lenguage":"COA"}
+Completed: 500 message:  Time response: 39 ms Request ID: [4b76cd0e-29b1-4503-825b-2659d339619a]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:37:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@test.xl","password":"9821","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 61 ms Request ID: [476c3d03-2b02-40d6-8f19-328f2fb66157]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:37:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@t3st.xl","password":"921","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 151 ms Request ID: [c36f3dfb-ec6b-49dc-a247-3da521789e35]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:54:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Frontend Developer","lenguage":"Ruby"}
+Completed: 201 message:  Time response: 150 ms Request ID: [2ee77b1e-ed17-465b-9ff2-9d225c8400b4]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 04:54:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 405 message:  Time response: 2 ms Request ID: [cf6e4802-6fe6-4c48-9ee3-afb44c979f8e]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:59:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"t24@t12342134123t.xl","password":"921","rol":"idiot","lenguage":"COA"}}
+Completed: 500 message:  Time response: 3 ms Request ID: [c8901ded-2d95-4d83-8109-ced44e72a277]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 04:59:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@t12342134123t.xl","password":"921","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 128 ms Request ID: [b0db011e-3841-4fa1-8045-968021b72c87]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:00:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"t24@tasdft.xl","password":"921","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 156 ms Request ID: [6a5ae78a-1204-44e7-8ce5-06e1b315296b]

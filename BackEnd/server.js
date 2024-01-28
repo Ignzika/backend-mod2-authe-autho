@@ -1,5 +1,7 @@
 import express from "express";
+
 import { logger } from "logger-express";
+
 import cors from "cors";
 import { db, PORT } from "./config/database/config.js";
 import { router } from "./config/routes/routes.js";

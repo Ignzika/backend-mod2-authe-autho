@@ -1,7 +1,9 @@
 import pg  from 'pg';
-import { db } from './config.js';
+import {db} from './config.js';
 
-export const pool = new pg.Pool(db);
+const pool = new pg.Pool(db);
 
 // aviso de la DB si esta conectada
 pool.on("connect", () => console.log(" battle control initiated "))
+
+export default pool;
