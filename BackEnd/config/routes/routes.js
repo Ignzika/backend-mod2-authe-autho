@@ -5,7 +5,6 @@ import { loginProtect } from "../../src/api/v1/middlewares/loginAuth.js";
 
 export const router = express.Router();
 
-
 router
   .route("/login")
   .post(
