@@ -6,8 +6,8 @@ export const getTheUser = async (req, res, next) => {
     const user = req.user;
     // console.log("consoleloh controller getuser: ", user);
     const result = await forAuth(user.email);
-    res.status(201).json({ users: result });
-    // console.log("console log del controller...:", result);
+    res.status(201).json({ user: result });
+    console.log("console log del controller...:", result);
     return result;
   } catch (error) {
     next(error);

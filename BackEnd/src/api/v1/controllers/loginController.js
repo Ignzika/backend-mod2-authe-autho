@@ -16,7 +16,7 @@ export const loginUser = async (req, res, next) => {
     // const compare = bcrypt.compareSync(user.password, finder.password);
 
     // !finder ? findError("auth_01") : !compare ? findError("auth_02") : null;
-    // compare
+    // creo que escribi mal el ternario, no me toma la validacion de la contraseña por compare
     
     // const { email, lenguage } = finder;
     // const token = jwt.sign({ email }, process.env.JWT_SECRET, {
