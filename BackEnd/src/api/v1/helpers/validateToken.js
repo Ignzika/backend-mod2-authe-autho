@@ -1,4 +1,5 @@
 import jwt from "jsonwebtoken";
+import { findError } from "../utils/utils.js";
 
 
 export const validateToken = async (token) => {
@@ -6,6 +7,6 @@ export const validateToken = async (token) => {
       const decoded = jwt.verify(token, process.env.JWT_SECRET);
       return decoded;
     } catch (error) {
-      console.log("auth_04", "Token no válido ", error);
+      findError("auth_04");
     }
   };
