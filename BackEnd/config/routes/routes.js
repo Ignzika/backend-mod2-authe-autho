@@ -1,9 +1,9 @@
 import express from "express";
-import { loginUser, registerNewUser } from "../../src/api/v1/controllers/controllers.js";
-
+import { registerNewUser, } from "../../src/api/v1/controllers/userController.js";
+import { loginUser } from "../../src/api/v1/controllers/loginController.js";
 export const router = express.Router();
 
-router.post("/login",loginUser )
+router.post("/login", loginUser )
 // router.post("/usuarios", );
 
 
