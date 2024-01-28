@@ -16,6 +16,7 @@ export const loginUser = async (req, res, next) => {
     // const compare = bcrypt.compareSync(user.password, finder.password);
 
     // !finder ? findError("auth_01") : !compare ? findError("auth_02") : null;
+    // compare
     
     // const { email, lenguage } = finder;
     // const token = jwt.sign({ email }, process.env.JWT_SECRET, {
@@ -29,7 +30,7 @@ export const loginUser = async (req, res, next) => {
 
     // no refactorizacion
 
-    
+
     if (!finder) {
       const errorFound = findError("auth_01");
       return res
@@ -37,6 +38,7 @@ export const loginUser = async (req, res, next) => {
         .json({ error: errorFound[0].message });
     } else {
       const compare = bcrypt.compareSync(user.password, finder.password);
+      console.log(compare)
 
       if (!compare) {
         const errorFound = findError("auth_02");
