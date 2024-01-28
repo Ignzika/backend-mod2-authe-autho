@@ -6,7 +6,7 @@ export const getTheUser = async (req, res, next) => {
     const user = req.user;
     // console.log("consoleloh controller getuser: ", user);
     const result = await forAuth(user.email);
-    res.status(201).json({ user: result });
+    res.status(201).json({ data: result }); // esto es lo que se envia al front para que lo muestre en profile??
     console.log("console log del controller...:", result);
     return result;
   } catch (error) {
