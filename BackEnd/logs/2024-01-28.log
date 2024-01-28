@@ -244,3 +244,51 @@ Completed: 201 message:  Time response: 128 ms Request ID: [b0db011e-3841-4fa1-8
 Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:00:59 GMT-0300 (hora de verano de Chile)
   Parameters in body: {"email":"t24@tasdft.xl","password":"921","rol":"idiot","lenguage":"COA"}
 Completed: 201 message:  Time response: 156 ms Request ID: [6a5ae78a-1204-44e7-8ce5-06e1b315296b]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:03:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testst@tasdft.xl","password":"921","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 148 ms Request ID: [ce3f527f-5664-4812-9acd-e29a4aa3d48b]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:03:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"testt@tasdft.xl","password":"921","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 144 ms Request ID: [fbe555f4-ec3a-457f-8ec3-3ac549f090bd]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:44:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 47 ms Request ID: [a1e7d9b4-bbf4-4409-a1d8-822a0e4f3da4]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:45:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 500 message:  Time response: 36 ms Request ID: [77e26d65-8465-4e37-b1eb-8189133cfaf3]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:46:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [ee31ddf2-6947-4486-8beb-235645a5613f]
+
+Started POST /usuarios for :: ::1 at Sun Jan 28 2024 05:46:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123","rol":"idiot","lenguage":"COA"}
+Completed: 201 message:  Time response: 129 ms Request ID: [2d2cf461-b57c-4395-9ed4-4a019a25073d]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:46:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 34 ms Request ID: [cdfac109-a973-4dcf-a553-a78bb23c679f]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:48:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 50 ms Request ID: [d16b811d-cb11-4e6a-bd1c-a9c6a3973acd]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:53:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 51 ms Request ID: [fdfec900-5410-4286-83ab-da96c91c8aab]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:56:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 51 ms Request ID: [e1d21449-442a-4f61-acd9-ae3010daa430]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 05:57:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 36 ms Request ID: [094a67cf-a1d2-435d-8119-8e3ccb0ac403]
+
+Started POST /login for :: ::1 at Sun Jan 28 2024 06:00:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"correo@correo.cl","password":"123"}
+Completed: 500 message:  Time response: 50 ms Request ID: [b5b3533c-28fc-4b50-bad5-22b231b00633]
